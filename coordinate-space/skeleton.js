@@ -1,6 +1,6 @@
 'use strict';
 
-// constrain our the space of our coordinate system
+// constrain the space of our coordinate system
 
 // draw a space for our coordinate system in the DOM with an SVG (Scalable Vector Graphics) element
   // group all of our SVG child elements so they can be acted on as one
